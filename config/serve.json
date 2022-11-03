@@ -1,0 +1,35 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://egisglobal.sharepoint.com/sites/RebecaTest/Lists/MoneySupplyRequests/AllItems.aspx",
+      "customActions": {
+        "492b5525-3c83-422c-b722-b309d84ae0d0": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "enablelistview": [
+              {"listId": "48b3abc0-19d0-49d2-9795-edbc0acd35e0", "spGroupsTitle":["REBECA_HQ SZPO"]}
+            ],
+            "exportType": "Excel"
+          }
+        }
+      }
+    },
+    "excelExport": {
+      "pageUrl": "https://egisglobal.sharepoint.com/sites/RebecaTest/Lists/MoneySupplyRequests/AllItems.aspx",
+      "customActions": {
+        "492b5525-3c83-422c-b722-b309d84ae0d0": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "enablelistview": [
+              {"listId": "48b3abc0-19d0-49d2-9795-edbc0acd35e0", "spGroupsTitle":["REBECA_HQ SZPO"]}
+            ],
+            "exportType": "Excel"
+          }
+        }
+      }
+    }
+  }
+}

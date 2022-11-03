@@ -1,0 +1,75 @@
+{
+    "enablelistview": [
+        {
+            "listId": "48b3abc0-19d0-49d2-9795-edbc0acd35e0",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "f1cb781d-d443-4e88-b6d2-9db0beb05518",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "914a2fcf-4ffa-4cba-b7cf-71f171ae7522",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "5bc1cfa2-cc6b-4f1d-a22c-0fb59c49231b",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "b06298a7-1f95-4cf7-a8c2-f1c3f34343d1",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "3fbd8fc2-9d45-4c9a-aed4-ce514ce7687d",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "a51a574a-104c-40dc-b1f3-b917975a30a3",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "ee74e02d-12c4-4d9c-b822-8596515b9572",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "aaa4515f-3c0c-4ab5-a927-e69fb012c04b",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        },
+        {
+            "listId": "8a42065e-393e-4814-945d-8fcd3e6be342",
+            "spGroupsTitle": [
+                "REBECA_HQ TR",
+                "REBECA_HQ SZPO"
+            ]
+        }
+    ],
+    "exportType": "Excel"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="ExcelExport"
+        RegistrationId="100"
+        RegistrationType="List"
+        Location="ClientSideExtension.ListViewCommandSet.CommandBar"
+        ClientSideComponentId="492b5525-3c83-422c-b722-b309d84ae0d0"
+        ClientSideComponentProperties="{&quot;enablelistview&quot;:[{&quot;listId&quot;: &quot;b06298a7-1f95-4cf7-a8c2-f1c3f34343d1&quot;, &quot;spGroupsTitle&quot;:[&quot;REBECA_HQ TR&quot;,&quot;REBECA_HQ SZPO&quot;]}],&quot;exportType&quot;:&quot;Excel&quot;}">
+    </CustomAction>
+</Elements>
